@@ -1,0 +1,2 @@
+# gomuluSistemlerOdev2
+GomuluSistemlerOdev2
